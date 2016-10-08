@@ -5,10 +5,10 @@
 
 body {
   background: #86c;
-  background: -webkit-linear-gradient(left,#8be, #87d, #84b);
-  background: -o-linear-gradient(right,#8be, #87d, #84b);
-  background: -moz-linear-gradient(right,#8be, #87d, #84b);
-  background: linear-gradient(to right,#8be, #87d, #84b);
+  background: -webkit-linear-gradient(left,#85c, #88e, #85c);
+  background: -o-linear-gradient(right,#85c, #88e, #85c);
+  background: -moz-linear-gradient(right,#85c, #88e, #85c);
+  background: linear-gradient(to right,#85c, #88e, #85c);
   background-size: 200%;
   background-position: 0%;
   font-family: 'Open Sans', sans-serif;
