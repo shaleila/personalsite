@@ -26,6 +26,17 @@ h1 {
   color: #661763;
 }
 
+h4 {
+  background: transparent;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.5;
+  margin: 1.4em auto;
+  max-width: 49em;
+  font-size: 18px;
+  color: #210220;
+  text-align: center;
+}
+
 /*
 .circle {
   position: relative;
@@ -53,7 +64,7 @@ h1 {
 }
 */
 .nav {
-  margin: 0px auto;
+  margin: 2px auto;
   height: 1em;
   width: 30.3em;
   align: center;
@@ -113,7 +124,7 @@ p {
   max-width: 49em;
   font-size: 18px;
   color: #210220;
-  align: left;
+  text-align: center;
 }
 dfn {
   border-bottom: dotted 1px rgba(0,0,0,0.4);
