@@ -67,7 +67,6 @@ h4 {
   margin: 2px auto;
   height: 1em;
   width: 30.3em;
-  align: center;
 }
 
 .nav div {
@@ -78,7 +77,7 @@ h4 {
   height: 2em;
   padding: 0 1em;
   margin: 0 10px;
-  background: rgba(0,0,0,0.3);
+  background: #d6d6d6;
   border:solid 3px transparent;
   border-radius: 4px;
   opacity: 1;
@@ -86,7 +85,7 @@ h4 {
   float: left;
 }
 .nav div:hover {
-  border:solid 3px #fffff
+  border:solid 3px #ffffff
    ;
 }
 
