@@ -102,10 +102,11 @@ p:nth-child(4):before {
 **/
 p {
   background: transparent;
+  font-family: 'Open Sans';
   line-height: 1.5;
   margin: 1.4em auto;
   max-width: 49em;
-  font-size: 45px;
+  font-size: 22px;
 }
 dfn {
   border-bottom: dotted 1px rgba(0,0,0,0.4);
