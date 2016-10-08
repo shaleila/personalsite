@@ -75,14 +75,14 @@ h1 {
   float: left;
 }
 .nav div:hover {
-  border:solid 3px #ffd6fd
+  border:solid 3px #fffff
    ;
 }
 
 
 p:first-of-type {
   max-width: 9999em;
-  text-align: center;
+  text-align: left;
   margin: 0;
 }
 p:not(:first-of-type) {
@@ -113,6 +113,7 @@ p {
   max-width: 49em;
   font-size: 18px;
   color: #210220;
+  align: left;
 }
 dfn {
   border-bottom: dotted 1px rgba(0,0,0,0.4);
