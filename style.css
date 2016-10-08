@@ -4,11 +4,11 @@
 ::selection { background: rgba(0,0,0,0.2); }
 
 body {
-  background: #07a;
-  background: -webkit-linear-gradient(left,#07a, #0aa, #07a);
-  background: -o-linear-gradient(right,#07a, #0aa, #07a);
-  background: -moz-linear-gradient(right,#07a, #0aa, #07a);
-  background: linear-gradient(to right,#07a, #0aa, #07a);
+  background: #86c;
+  background: -webkit-linear-gradient(left,#8be, #87d, #84b);
+  background: -o-linear-gradient(right,#8be, #87d, #84b);
+  background: -moz-linear-gradient(right,#8be, #87d, #84b);
+  background: linear-gradient(to right,#8be, #87d, #84b);
   background-size: 200%;
   background-position: 0%;
   font-family: 'Open Sans', sans-serif;
