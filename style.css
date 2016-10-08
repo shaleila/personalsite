@@ -35,7 +35,7 @@ h1 {
   box-shadow: 0 0 0 0.8em rgba(255,255,255,0.3);
 }
 
-
+/*
 .circle:before, .circle:after {
   position: absolute;
   content: 'Web Developer';
@@ -48,7 +48,7 @@ h1 {
   content: 'Graphic Designer';
   left: 7.25em;
 }
-
+*/
 .nav {
   margin: -10px auto;
   height: 3em;
@@ -105,7 +105,7 @@ p {
   line-height: 1.5;
   margin: 1.4em auto;
   max-width: 49em;
-  font-size: 1.3em;
+  font-size: 4px;
 }
 dfn {
   border-bottom: dotted 1px rgba(0,0,0,0.4);
