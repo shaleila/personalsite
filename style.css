@@ -105,7 +105,7 @@ p {
   line-height: 1.5;
   margin: 1.4em auto;
   max-width: 49em;
-  font-size: 4px;
+  font-size: 100px;
 }
 dfn {
   border-bottom: dotted 1px rgba(0,0,0,0.4);
