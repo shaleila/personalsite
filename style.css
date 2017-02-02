@@ -126,6 +126,7 @@ p:nth-child(4):before {
 }
 **/
 p {
+  /*
   background: transparent;
   font-family: 'Open Sans', sans-serif;
   line-height: 1.5;
@@ -134,6 +135,16 @@ p {
   font-size: 18px;
   color: #ffffff;
   text-align: center;
+  */
+  line-height: 1.5em;
+  margin: 1.4em auto;
+  max-width: 49em;
+  font-size: 1.3em;
+  font-weight: 300;
+  text-align: left;
+  transition: font-size 300ms;
+  animation: slide-in 1s ease-out;
+  -webkit-animation: slide-in 1s ease-out;
 }
 dfn {
   border-bottom: dotted 1px rgba(0,0,0,0.4);
