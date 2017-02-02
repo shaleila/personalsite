@@ -12,10 +12,7 @@ body {
   background-size: 200%;
   background-position: 0%;
   */
-  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/29/b6/c7/29b6c792965cf1f135db7218252e7b1a.gif") no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/29/b6/c7/29b6c792965cf1f135db7218252e7b1a.gif"); 
   background-size: cover;
   font-family: 'Open Sans', sans-serif;
   font-size: 1em;
