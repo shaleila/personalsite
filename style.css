@@ -86,7 +86,7 @@ h5 {
   line-height: 2em;
   height: 2em;
   padding: 0 1em;
-  margin: 0 19px;
+  margin: 0 16px;
   background: #c8daf7;
   border:solid 3px transparent;
   border-radius: 4px;
@@ -141,7 +141,7 @@ dfn {
   font-style: normal;
 }
 a {
-  color: #fff;
+  color: #000;
   border-bottom: solid 1px rgba(0,0,0,0.4);
   text-decoration: none;
 }
