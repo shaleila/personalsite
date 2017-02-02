@@ -4,23 +4,19 @@
 ::selection { background: rgba(0,0,0,0.2); }
 
 body {
-  background: url(http://i68.tinypic.com/207m9fn.jpg);
-  /*
-  background: #85c;
-  background: -webkit-linear-gradient(left,#baf, #bff, #baf);
-  background: -o-linear-gradient(right,#baf, #bff, #baf);
-  background: -moz-linear-gradient(right,#baf, #bff, #baf);
-  background: linear-gradient(to right,#baf, #bff, #baf);
+  background: #07a;
+  background: -webkit-linear-gradient(left,#07a, #0aa, #07a);
+  background: -o-linear-gradient(right,#07a, #0aa, #07a);
+  background: -moz-linear-gradient(right,#07a, #0aa, #07a);
+  background: linear-gradient(to right,#07a, #0aa, #07a);
   background-size: 200%;
   background-position: 0%;
-  */
   font-family: 'Open Sans', sans-serif;
   font-size: 1em;
   margin: 2em;
-  /* color: #f5f5f5;
+  color: #f5f5f5;
   animation: bg-move 10s linear infinite;
   -webkit-animation: bg-move 10s linear infinite; 
-  */
 }
 
 h1 {
