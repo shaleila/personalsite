@@ -4,6 +4,8 @@
 ::selection { background: rgba(0,0,0,0.2); }
 
 body {
+  background: url(http://i.imgur.com/xZHALzM.jpg);
+  /*
   background: #85c;
   background: -webkit-linear-gradient(left,#baf, #bff, #baf);
   background: -o-linear-gradient(right,#baf, #bff, #baf);
@@ -11,6 +13,7 @@ body {
   background: linear-gradient(to right,#baf, #bff, #baf);
   background-size: 200%;
   background-position: 0%;
+  */
   font-family: 'Open Sans', sans-serif;
   font-size: 1em;
   margin: 2em;
