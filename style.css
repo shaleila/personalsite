@@ -17,8 +17,8 @@ body {
   font-size: 1em;
   margin: 2em;
   color: #f5f5f5;
-  animation: bg-move 10s linear infinite;
-  -webkit-animation: bg-move 10s linear infinite; 
+  /* animation: bg-move 10s linear infinite;
+  -webkit-animation: bg-move 10s linear infinite; */
 }
 
 h1 {
