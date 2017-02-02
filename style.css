@@ -41,9 +41,15 @@ h4 {
   text-align: center;
 }
 
-h4.big {
-    line-height: 1.8;
-    text-align: center;
+h5 {
+  background: transparent;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 2;
+  margin: 1.4em auto;
+  max-width: 49em;
+  font-size: 18px;
+  color: #210220;
+  text-align: left;
 }
 /*
 .circle {
