@@ -4,13 +4,15 @@
 ::selection { background: rgba(0,0,0,0.2); }
 
 body {
-  background: #07a;
+  /* background: #07a;
   background: -webkit-linear-gradient(left,#07a, #0aa, #07a);
   background: -o-linear-gradient(right,#07a, #0aa, #07a);
   background: -moz-linear-gradient(right,#07a, #0aa, #07a);
   background: linear-gradient(to right,#07a, #0aa, #07a);
   background-size: 200%;
   background-position: 0%;
+  */
+  background-image: url("https://secure.static.tumblr.com/f0d63aef2171dd8a8774a0f2bd5512dc/8aqyr7f/grjndpxpp/tumblr_static_tumblr_static_31twmtl2sqkg88g8wwo0kg0os_640.jpg");
   font-family: 'Open Sans', sans-serif;
   font-size: 1em;
   margin: 2em;
