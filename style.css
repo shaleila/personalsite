@@ -23,7 +23,7 @@ h1 {
   font-size: 4.5em;
   text-align: center;
   margin: -.1em 0 1em;
-  color: #e1c2ef;
+  color: #6d28e2;
 }
 
 h4 {
@@ -81,7 +81,7 @@ h5 {
 
 .nav div {
   text-align: center;
-  text-shadow: 0 0 7px rgba(0,0,0,0.3);
+  /* text-shadow: 0 0 7px rgba(0,0,0,0.3); */
   font-size: 1.2em;
   line-height: 2em;
   height: 2em;
@@ -152,7 +152,7 @@ dfn {
   font-style: normal;
 }
 a {
-  color: #e1c2ef;
+  color: #6d28e2;
   border-bottom: solid 1px rgba(0,0,0,0.4);
   text-decoration: none;
 }
