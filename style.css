@@ -23,7 +23,7 @@ h1 {
   font-size: 4.5em;
   text-align: center;
   margin: -.1em 0 1em;
-  color: #661763;
+  color: #e5daef;
 }
 
 h4 {
@@ -33,7 +33,7 @@ h4 {
   margin: 1.4em auto;
   max-width: 49em;
   font-size: 18px;
-  color: #210220;
+  color: #fff;
   text-align: center;
 }
 
@@ -44,7 +44,7 @@ h5 {
   margin: 1.4em auto;
   max-width: 49em;
   font-size: 18px;
-  color: #210220;
+  color: #fff;
   text-align: left;
 }
 /*
@@ -86,7 +86,7 @@ h5 {
   line-height: 2em;
   height: 2em;
   padding: 0 1em;
-  margin: 0 15px;
+  margin: 0 17px;
   background: #c8daf7;
   border:solid 3px transparent;
   border-radius: 4px;
