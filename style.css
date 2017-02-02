@@ -23,7 +23,7 @@ h1 {
   font-size: 4.5em;
   text-align: center;
   margin: -.1em 0 1em;
-  color: #6d28e2;
+  color: #6e5599;
 }
 
 h4 {
@@ -152,7 +152,7 @@ dfn {
   font-style: normal;
 }
 a {
-  color: #6d28e2;
+  color: #6e5599;
   border-bottom: solid 1px rgba(0,0,0,0.4);
   text-decoration: none;
 }
