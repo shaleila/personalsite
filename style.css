@@ -89,7 +89,7 @@ h6 {
 .nav {
   margin: 2px auto;
   height: 1em;
-  width: 30.3em;
+  width: 23.3em;
 }
 
 .nav div {
@@ -98,7 +98,7 @@ h6 {
   font-size: 1.2em;
   line-height: 2em;
   height: 2em;
-  padding: 0 1em;
+  padding: 0 0.5em;
   margin: 0 16px;
   background: #c8daf7;
   border:solid 3px transparent;
