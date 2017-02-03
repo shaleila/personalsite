@@ -36,6 +36,13 @@ body {
   opacity: 0.9;
 }
 
+td {
+padding-left: 22px;
+padding-right: 22px;
+padding-top: 0px;
+padding-bottom: 0px;
+}
+
 h1 {
   font-size: 5em;
   text-align: center;
