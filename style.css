@@ -105,7 +105,7 @@ h6 {
   border-radius: 4px;
   opacity: 1;
   transition: all 500ms;
-  float: left;
+  float: center;
 }
 .nav div:hover {
   border:solid 3px #ffffff
