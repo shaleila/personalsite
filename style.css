@@ -87,7 +87,7 @@ h6 {
 }
 */
 .nav {
-  /* margin: 2px auto; */
+  margin: 2px auto;
   height: 1em;
   width: 23.3em;
 }
@@ -99,7 +99,7 @@ h6 {
   line-height: 2em;
   height: 2em;
   padding: 0 0.5em;
-  /* margin: 0 16px; */
+  margin: 0 16px;
   background: #c8daf7;
   border:solid 3px transparent;
   border-radius: 4px;
